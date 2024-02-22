@@ -37,6 +37,16 @@ Para cada región (NA, UE, JP) se determina:
 — Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.  
 — Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
 
+## Archivo ipynb
+
+**Contenido**
+
+- **Análisis Exploratorio de Datos (EDA):** Explicación sobre cómo se realizó el EDA y qué se encontró.
+- **Manejo de Valores Ausentes:** Detalles sobre cómo se manejan los valores ausentes en los datos.
+- **Preparación de los datos:** Correcto formato al dataframe para análisis posteriores. 
+- **Preguntas exploratorias:** Se responden diversas preguntas por grupos.
+- **Pruebas de Hipótesis:** Descripción de las hipótesis planteadas y cómo se probaron con los datos.
+
 ## Configuración del entorno virtual
 
 Para ejecutar este proyecto, se recomienda crear un entorno virtual de Python. Puedes hacerlo ejecutando los siguientes comandos en tu terminal:
