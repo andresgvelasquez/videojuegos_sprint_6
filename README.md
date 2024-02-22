@@ -34,5 +34,5 @@ Para cada región (NA, UE, JP) se determina:
 
 ## Pruebas de hipótesis
 
-— Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.
+— Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.  
 — Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
