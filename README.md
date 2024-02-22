@@ -36,3 +36,21 @@ Para cada región (NA, UE, JP) se determina:
 
 — Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.  
 — Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
+
+## Configuración del entorno virtual
+
+Para ejecutar este proyecto, se recomienda crear un entorno virtual de Python. Puedes hacerlo ejecutando los siguientes comandos en tu terminal:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Para Linux/Mac
+# o
+.\venv\Scripts\activate   # Para Windows
+```
+
+Luego deberas installar las dependencias:
+``` bash
+pip install -r requirements.txt
+```
+
+Una vez que hayas configurado el entorno virtual y hayas instalado las dependencias, puedes ejecutar el proyecto.
