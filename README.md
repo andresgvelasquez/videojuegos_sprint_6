@@ -1,4 +1,4 @@
-# ¿El juego tiene exito o no?
+# ¿El juego tiene éxito o no?
 
 ## Descripción del proyecto
 
